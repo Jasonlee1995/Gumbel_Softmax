@@ -1,6 +1,6 @@
 # Gumbel-Softmax Implementation with Pytorch
 - Unofficial implementation of the paper *Categorical Reparameterization with Gumbel-Softmax* and *The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables*
-- Download binarized MNIST dataset : [[github]](https://github.com/Jasonlee1995/Binarized_MNIST)
+- Download binarized MNIST dataset following the [github](https://github.com/Jasonlee1995/Binarized_MNIST)
 
 
 ## 0. Develop Environment

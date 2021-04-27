@@ -35,5 +35,5 @@ Library
 
 
 ## 3. Reference
-- Categorical Reparameterization with Gumbel-Softmax [[paper]](https://arxiv.org/pdf/1611.01144.pdf) [[official tensorflow code]](https://github.com/ericjang/gumbel-softmax)
+- Categorical Reparameterization with Gumbel-Softmax [[paper]](https://arxiv.org/pdf/1611.01144.pdf) [[official code]](https://github.com/ericjang/gumbel-softmax)
 - The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables [[paper]](https://arxiv.org/pdf/1611.00712.pdf)
